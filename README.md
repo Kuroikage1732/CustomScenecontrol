@@ -1,6 +1,6 @@
 # CustomScenecontrol
 
-用于存放一些自己写的SC
+用于存放一些自己写的SC  
 基于 ArcadeZero v4.x Scenecontrol API
 
 ### NOTES
