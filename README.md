@@ -33,3 +33,17 @@
 - `lane`：轨道编号（任意整数，包括0-5）
 - `duration`：持续时间
 - `toggle`：显示与否
+
+# Macros
+辅助宏
+
+## CreateExtraLane.lua
+### DisplayExtraLane
+创建/显示单个额外轨道
+
+使用方法：点击宏后选择单个或多个hold对象，宏将会显示hold所在的轨道，动画持续时间与hold相同
+
+### HideExtraLane
+隐藏单个额外轨道
+
+使用方法：点击宏后选择单个或多个hold对象，宏将会隐藏hold所在的轨道，动画持续时间与hold相同
